@@ -1,0 +1,26 @@
+.navbar__footer {
+    background-color: #1f2935;
+    color: white;
+    display: flex;
+    height: 50px;
+}
+.nav-item {
+   
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+
+.navbar-light 
+.navbar-brand{
+    color: white;
+    cursor: pointer;
+}
+
+.navbar-light .navbar-nav .nav-link {
+   color:white;
+}
+
+.navbar-light .navbar-nav .nav-link,.nav-item :hover{
+    cursor: pointer;
+}

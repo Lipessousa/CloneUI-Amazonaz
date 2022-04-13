@@ -1,0 +1,116 @@
+@font-face {
+  font-family: "AmazonEmber";
+  src: url("../../assets/AmazonFont.ttf");
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "AmazonEmber";
+}
+
+
+.titulo{
+    font-size: 14px;
+    margin: 6px 0px 14px;
+    color: white;
+    font-weight: 700;
+  }
+  
+  .footer{
+    background-color: #232f3e;
+  }
+  .login{
+    border: 1px solid #DDD;
+    border-radius: 5px;
+  }
+  
+  .top{
+    padding-top: 30px;
+  }
+  .top a{
+    text-decoration: none;
+  }
+  
+  .topics{
+    color: white;
+    white-space: normal;
+    text-decoration: none;
+  }
+  .topics:hover{
+    color: white;
+    text-decoration-line:underline;
+  }
+  
+  .navFooterTop{
+    color: #fff;
+    display: block;
+    text-align: center;
+    padding: 15px 0;
+    line-height: 19px;
+    font-size: 13px;
+    background-color: #314153;
+    cursor: pointer;
+    line-height:20px;
+  }
+  
+  .navFooterTop:hover{
+    background-color: #314153e0;
+  
+  }
+  .line{
+    border-top: 1px solid #3a4553;
+    margin-top: 40px;
+  }
+  
+  .logo{
+    height: 90px;
+    width: 100px;
+    margin-top: 20px;
+  }
+  
+  .line-top{
+    border-top: 1px solid black;
+    border: 1px solid black;
+    padding: 0 20px;
+  }
+  
+  .login-button-title{
+    color: #000;
+    font-size: 13px;
+    padding-top: 30px;
+    padding-bottom: 3px;
+  }
+  
+  .button{
+    cursor: pointer;
+    display: block;
+    height: 28px;
+    background-color: orange;
+    color: #000;
+    font-size: 12px;
+    line-height: 28px;
+    text-align: center;
+    font-weight: 700;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #ffe093;
+    width: 200px;
+    border-radius: 4px;
+  }
+  
+  .button:hover{
+    color: #000;
+  }
+  
+  .top-link{
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 30px;
+  }
+  
+  .link{
+    text-decoration: none;
+    color: #007185;
+    cursor: pointer;
+  }
+  

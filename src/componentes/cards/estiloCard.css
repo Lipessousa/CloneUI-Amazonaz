@@ -1,0 +1,67 @@
+@font-face {
+    font-family: "AmazonEmber";
+    src: url("../../assets/AmazonFont.ttf");
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "AmazonEmber";
+  }
+  
+
+.card{
+    display: inline;
+    border-radius: 0%;
+    margin: 25px 0 0;
+    padding: 5px 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: black;
+    width: 310px;
+    min-height: 350px;
+}
+
+.card-title{
+    padding-top: 10px;
+    padding-left: 7px;
+    font-size: 21px;
+    font-family: "AmazonEmber";
+    max-height: 50px;
+    font-weight: 700;
+    color: #0F1111;
+}
+
+.card a{
+    min-height: 50px;
+}
+
+.card h5{
+    min-height: 50px;
+}
+
+.card-img-top{
+    margin-left: -5px;
+    padding: 3%;
+    width: 300px;
+    height: 270px;
+}
+
+.card-rodape{
+    padding: 8px;
+    background-color: white;
+    border: none;
+}
+
+.card-rodape a{
+    text-decoration: none;
+    color: #007185;
+    font-size: 13px;
+    min-height: 50%;
+}
+
+.card-rodape :hover{
+    color: tomato;
+    text-decoration: underline;
+}

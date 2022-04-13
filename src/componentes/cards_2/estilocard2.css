@@ -1,0 +1,37 @@
+.linha-images{
+    max-height: 270px;
+    padding-left: 5px;
+    display: inline;
+}
+
+.fourImages img{
+    padding: 7px;
+    width: 134px;
+    height: 100px;
+}
+
+
+.descProduto{
+    font-size: 12px;
+}
+
+.rodape{
+    padding: 8px;
+    height: 40px;
+    background-color: white;
+    border: none;
+}
+
+.rodape a{
+    padding-bottom: 100px;
+    text-decoration: none;
+    color: #007185;
+    font-size: 13px;
+    min-height: 50%; 
+}
+
+.rodape :hover{
+    color: tomato;
+    text-decoration: underline;
+}
+ 

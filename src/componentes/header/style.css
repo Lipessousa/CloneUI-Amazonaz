@@ -1,0 +1,142 @@
+.header {
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #131921;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header:hover{
+  cursor: pointer;
+}
+
+.header__logo {
+  width: 100px;
+  object-fit: contain;
+  margin: 0 20px;
+  margin-top: -0.5%;
+}
+
+.header__search {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  border-radius: 24px;
+}
+
+.navbar__locator {
+  display:flex;
+  margin: 20px 0px;
+  margin-top: 1.5%;
+}
+.navbar__location {
+  color: white;
+  font-weight: bold;
+  margin-right: 4%;
+}
+.navbar__locatorImage {
+  background: url('https://ik.imagekit.io/amazon1234/sprite_350x_q7QZkJCVl.png?updatedAt=1627121934264') no-repeat -71px -377px;
+  width: 16px;
+  height: 18px;
+  margin-left: -10%;
+}
+.nav__dropdown {
+  height: 37px;
+  margin-top: 0px;
+  background-color: #e6e5e5;
+  border-radius: 5px 0px 0px 5px;
+  text-align-last: center;
+  color: #555758;
+  font-size: 12px;
+}
+
+.nav__dropdown:hover{
+  cursor: pointer;
+}
+
+.header__searchInput {
+  height: 35px;
+  padding: 10px;
+  border: none;
+  width: 100%;
+  border-radius: 0px 0px 0px 0px;
+} 
+
+.header__searchIcon {
+  padding: 5px;
+  width: 50px !important;
+  height: 35px !important;
+  background-color: #e4ac63;
+  border-radius: 0px 5px 5px 0px;
+}
+
+.header__searchIcon:hover{
+  background-color: #d48d31;
+
+
+}
+
+.header__optionLineOne {
+  font-size: 10px;
+}
+
+.header__optionLineTwo {
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.header__optionBasket {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.navbar__cart {
+  display:flex;
+
+}
+.navbar_text {
+  color: white;
+}
+.cart__image {
+  background: url('https://ik.imagekit.io/amazon1234/sprite_350x_q7QZkJCVl.png?updatedAt=1627121934264') no-repeat -217px -336px;
+  width: 43px;
+  height: 30px;
+}
+.navbar_text_cart {
+  font-weight: bold;
+  position: relative;
+  margin-top: 12%;
+  margin-left: -5%;
+
+}
+.cart__item {
+  font-weight: bold;
+  position: relative;
+  left: -23px;
+  top: -3px;
+  color: #F08805;
+}
+
+.header__basketCount {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.header__nav {
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.header__option {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+}
+

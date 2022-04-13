@@ -1,0 +1,94 @@
+[
+  {
+    "id": "94313731",
+    "name": "Produto 1" ,
+    "price": 249.99,
+    "oldPrice": 349.99,
+    "image": "https://cdn.iset.io/assets/58288/produtos/624/thumb_230-230-11red.jpg" 
+  },
+  {
+    "id": "94313762",
+    "name": "Produto 2",
+    "price": 249.99,
+    "oldPrice": 349.99,
+    "image": "https://m.media-amazon.com/images/I/41PkAxUUglL._SS230_.jpg"
+  },
+  
+  { 
+    "id": "943137XQ",
+    "name": "Produto 3",
+    "price": 249.99,
+    "oldPrice": 349.99,
+    "image": "https://cf.shopee.com.br/file/9ea149af5ee59d1c22ab6b3d1999f8f9"
+  },
+  {
+    "id": "95077714",
+    "name": "Produto 4",
+    "price": 199.99,
+    "oldPrice": 279.99,
+    "image": "https://cdn.iset.io/assets/57101/produtos/2101/thumb_230-230-lucas_ovo.jpg"
+  },
+  {
+    "id": "9507779N",
+    "name": "Produto 5",
+    "price": 199.99,
+    "oldPrice": 279.99,
+    "image": "https://i.pinimg.com/236x/a4/e8/61/a4e861d27b7b397956ae3a6d814d5d69--cocktail-shaker-mugs.jpg"
+  },
+  {
+    "id": "92601102",
+    "name": "Produto 6",
+    "price": 449.99,
+    "oldPrice": 559.99,
+    "image": "https://dpcdobrasil.vteximg.com.br/arquivos/ids/177465-230-230/Fone-de-Ouvido-Motorola-Vervebuds-100-Bluetooth-Preto.jpg?v=637473687914930000"
+  },
+  {
+    "id": "9465450R",
+    "name": "Produto 7",
+    "price": 279.99,
+    "oldPrice": 399.99,
+    "image": "https://canary.contestimg.wish.com/api/webimage/604ad4b8b7ab536feaef032f-normal.jpg"
+  },
+  {
+    "id": "95004531",
+    "name": "Produto 8",
+    "price": 299.99,
+    "oldPrice": 449.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/M0LAU25K.jpg" 
+  },
+  {
+    "id": "94672705",
+    "name": "Produto 9",
+    "price": 179.99,
+    "oldPrice": 229.99,
+    "image": "https://cdn.spiritshop.com.br/constantim/image/cache/data/up_system/product-13713/dest-full-skeleton-list-230x230.png"
+  },
+  {
+    "id": "92456602",
+    "name": "Produto 10",
+    "price": 179.99,
+    "oldPrice": 209.99,
+    "image": "https://flickakids.vteximg.com.br/arquivos/ids/163159-230-230/Copo-Avent-Pinguim-340ml-Preto-Frente.jpg?v=636643481933730000"
+  },
+  {
+    "id": "94461431",
+    "name": "Produto 11",
+    "price": 279.99,
+    "oldPrice": null,
+    "image": "https://martinelloeletrodomesticos.fbitsstatic.net/img/p/smartphone-motorola-moto-e7-32gb-cinza-metalico-4g-2gb-ram-tela-6-5-cam-selfie-cam-dupla-48-m-76002/262592-5.jpg?w=230&h=230&v=no-change&qs=ignore"
+  },
+  {
+    "id": "95850662",
+    "name": "Produto 12",
+    "price": 199.99,
+    "oldPrice": 279.99,
+    "image": "https://a-static.mlcdn.com.br/280x210/garrafa-termica-inteligente-medidor-temperatura-inox-mm-variedades/mmvariedadesonline/q-430rosa1/ad4eda265ac424c0941572d4e73d3c23.jpg"
+  },
+  {
+    "id": "943137X8",
+    "name": "Produto 13",
+    "price": 249.99,
+    "oldPrice": 349.99,
+    "image": "https://cdn.iset.io/assets/58288/produtos/644/thumb_230-230-07.jpg"
+  }
+]

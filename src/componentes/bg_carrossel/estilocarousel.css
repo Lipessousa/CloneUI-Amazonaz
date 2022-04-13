@@ -1,0 +1,31 @@
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center button{
+    height: 45%;
+    width: 6%;
+}
+
+.btns :active{
+    border: 2px solid white;
+}
+
+#button :active{
+    border: none;
+}
+
+
+
+@media (min-width: 1580px) {
+    .center{
+        max-width: 80%;
+    }
+    
+    .center button{
+        height: 49%;
+        width: 6%;
+    }
+}
+
