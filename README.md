@@ -64,4 +64,6 @@ Todos direitos são reservados a Amazon.com
 
 <hr/>
 
+hospedagem : https://amazonaz.netlify.app/
+
 Feito Por Felipe Sousa
