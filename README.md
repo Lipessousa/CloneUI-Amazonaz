@@ -62,10 +62,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Todos direitos são reservados a Amazon.com 
 
-### 📝 Licença
-
-Esse projeto está sob a licença MIT.
-
 <hr/>
 
 Feito Por Felipe Sousa
